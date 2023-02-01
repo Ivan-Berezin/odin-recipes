@@ -1,2 +1,1 @@
-# odin-recipes
-This is my first project for Odin. I will create a recipe book using HTML
+This is the first project I will do as part of my education in The Odin Project. I wll create a recipe book using html.
