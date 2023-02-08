@@ -1,0 +1,27 @@
+*{
+    background-color: cyan;
+    list-style-position: inside;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 375px;
+    height: auto;
+}
+
+ul{
+    font-size: 30px;
+    list-style: none;
+    vertical-align: middle;
+}
+
+
+li{
+    text-align: center;
+}
